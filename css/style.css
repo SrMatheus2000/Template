@@ -1,0 +1,25 @@
+.cabecalho {
+  padding: 10px;
+  /* height: 60px; */
+  /* background-color: yellowgreen; */
+}
+
+.menu_fixo {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 5 0;
+  /* height: 20px; */
+  /* background-color: yellow; */
+}
+
+.corpo {}
+
+.rodape {
+  position: fixed;
+  bottom: 0;
+  padding: 5 0;
+  /* height: 30px; */
+  /* background-color: aqua; */
+}
